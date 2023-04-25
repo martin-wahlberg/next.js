@@ -1010,8 +1010,8 @@ importers:
       '@types/react': 18.0.37
       '@types/react-dom': 18.0.11
       '@vercel/ncc': ^0.36.0
-      '@vercel/turbopack-dev': https://gitpkg.vercel.app/vercel/turbo/crates/turbopack-dev/js?3cd6e9c676c2dd110fb3b3a6a7fedb43e21e2cdb
-      '@vercel/turbopack-node': https://gitpkg.vercel.app/vercel/turbo/crates/turbopack-node/js?3cd6e9c676c2dd110fb3b3a6a7fedb43e21e2cdb
+      '@vercel/turbopack-dev': https://gitpkg.vercel.app/vercel/turbo/crates/turbopack-dev/js?3c7c54ddfdf3d436aa6a2ddfaecf3eb0a3ff092f
+      '@vercel/turbopack-node': https://gitpkg.vercel.app/vercel/turbo/crates/turbopack-node/js?3c7c54ddfdf3d436aa6a2ddfaecf3eb0a3ff092f
       anser: ^2.1.1
       css.escape: ^1.5.1
       find-up: ^6.3.0
@@ -1023,8 +1023,8 @@ importers:
       stacktrace-parser: ^0.1.10
       strip-ansi: ^7.0.1
     dependencies:
-      '@vercel/turbopack-dev': '@gitpkg.vercel.app/vercel/turbo/crates/turbopack-dev/js?3cd6e9c676c2dd110fb3b3a6a7fedb43e21e2cdb_react-refresh@0.12.0'
-      '@vercel/turbopack-node': '@gitpkg.vercel.app/vercel/turbo/crates/turbopack-node/js?3cd6e9c676c2dd110fb3b3a6a7fedb43e21e2cdb'
+      '@vercel/turbopack-dev': '@gitpkg.vercel.app/vercel/turbo/crates/turbopack-dev/js?3c7c54ddfdf3d436aa6a2ddfaecf3eb0a3ff092f_react-refresh@0.12.0'
+      '@vercel/turbopack-node': '@gitpkg.vercel.app/vercel/turbo/crates/turbopack-node/js?3c7c54ddfdf3d436aa6a2ddfaecf3eb0a3ff092f'
       anser: 2.1.1
       css.escape: 1.5.1
       next: link:../../../../next
@@ -25555,9 +25555,9 @@ packages:
   /zwitch/2.0.4:
     resolution: {integrity: sha512-bXE4cR/kVZhKZX/RjPEflHaKVhUVl85noU3v6b8apfQEc1x4A+zBxjZ4lN8LqGd6WZ3dl98pY4o717VFmoPp+A==}
 
-  '@gitpkg.vercel.app/vercel/turbo/crates/turbopack-dev/js?3cd6e9c676c2dd110fb3b3a6a7fedb43e21e2cdb_react-refresh@0.12.0':
-    resolution: {tarball: https://gitpkg.vercel.app/vercel/turbo/crates/turbopack-dev/js?3cd6e9c676c2dd110fb3b3a6a7fedb43e21e2cdb}
-    id: '@gitpkg.vercel.app/vercel/turbo/crates/turbopack-dev/js?3cd6e9c676c2dd110fb3b3a6a7fedb43e21e2cdb'
+  '@gitpkg.vercel.app/vercel/turbo/crates/turbopack-dev/js?3c7c54ddfdf3d436aa6a2ddfaecf3eb0a3ff092f_react-refresh@0.12.0':
+    resolution: {tarball: https://gitpkg.vercel.app/vercel/turbo/crates/turbopack-dev/js?3c7c54ddfdf3d436aa6a2ddfaecf3eb0a3ff092f}
+    id: '@gitpkg.vercel.app/vercel/turbo/crates/turbopack-dev/js?3c7c54ddfdf3d436aa6a2ddfaecf3eb0a3ff092f'
     name: '@vercel/turbopack-dev'
     version: 0.0.0
     dependencies:
@@ -25567,8 +25567,8 @@ packages:
       - webpack
     dev: false
 
-  '@gitpkg.vercel.app/vercel/turbo/crates/turbopack-node/js?3cd6e9c676c2dd110fb3b3a6a7fedb43e21e2cdb':
-    resolution: {tarball: https://gitpkg.vercel.app/vercel/turbo/crates/turbopack-node/js?3cd6e9c676c2dd110fb3b3a6a7fedb43e21e2cdb}
+  '@gitpkg.vercel.app/vercel/turbo/crates/turbopack-node/js?3c7c54ddfdf3d436aa6a2ddfaecf3eb0a3ff092f':
+    resolution: {tarball: https://gitpkg.vercel.app/vercel/turbo/crates/turbopack-node/js?3c7c54ddfdf3d436aa6a2ddfaecf3eb0a3ff092f}
     name: '@vercel/turbopack-node'
     version: 0.0.0
     dependencies:
